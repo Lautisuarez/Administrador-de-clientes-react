@@ -1,0 +1,28 @@
+{
+  "clientes": [
+    {
+      "nombre": "Lautaro Suarez",
+      "empresa": "google",
+      "email": "correo@correo.com",
+      "telefono": "3214324241",
+      "notas": "Cliente mayor",
+      "id": 1
+    },
+    {
+      "nombre": "Juan",
+      "empresa": "Juan empresa",
+      "email": "correo@correo.com",
+      "telefono": "3434353425",
+      "notas": "",
+      "id": 2
+    },
+    {
+      "nombre": "Edgar Perez",
+      "empresa": "Empresa Edgar",
+      "email": "edgar@correo.com",
+      "telefono": "3143452352",
+      "notas": "Cliente edgar",
+      "id": 4
+    }
+  ]
+}
